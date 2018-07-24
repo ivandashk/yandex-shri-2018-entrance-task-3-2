@@ -1,0 +1,20 @@
+{
+    "devices": [
+        {
+            "id": "F972B82BA56A70CC579945773B6866FB",
+            "name": "Посудомоечная машина",
+            "power": 950,
+            "duration": 3,
+            "mode": "night"
+        }
+    ],
+    "rates": [
+        {
+            "from": 0,
+            "to": 10,
+            "value": 6.46
+        }
+    ],
+    "maxPower": 2100
+  }
+  

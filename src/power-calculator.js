@@ -1,8 +1,8 @@
-const validate = require('./validator');
+const validate = require('./validation/validator');
 
-function calculate(a) {
-    validate(a);
-    return { answer: true };
+calculate = input => {
+    validate(input);
+    return { "answer": true };
 }
 
 module.exports = calculate

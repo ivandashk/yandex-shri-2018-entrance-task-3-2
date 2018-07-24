@@ -11,12 +11,11 @@
     "url": "git+https://github.com/ivandashk/yandex-shri-2018-entrance-task-3-2.git"
   },
   "author": "Ivan Dashkevich",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ivandashk/yandex-shri-2018-entrance-task-3-2/issues"
-  },
   "homepage": "https://github.com/ivandashk/yandex-shri-2018-entrance-task-3-2#readme",
   "devDependencies": {
     "jest": "^23.4.1"
+  },
+  "dependencies": {
+    "ajv": "^6.5.2"
   }
 }
