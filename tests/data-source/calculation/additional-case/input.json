@@ -1,0 +1,59 @@
+{
+  "devices": [
+      {
+          "id": "F972B82BA56A70CC579945773B6866FB",
+          "name": "Device 1",
+          "power": 950,
+          "duration": 3,
+          "mode": "night"
+      },
+      {
+          "id": "C515D887EDBBE669B2FDAC62F571E9E9",
+          "name": "Device 2",
+          "power": 1600,
+          "duration": 2,
+          "mode": "day"
+      },
+      {
+          "id": "02DDD23A85DADDD71198305330CC386D",
+          "name": "Device 3",
+          "power": 100,
+          "duration": 22
+      },
+      {
+          "id": "1E6276CC231716FE8EE8BC908486D41E",
+          "name": "Device 4",
+          "power": 50,
+          "duration": 24
+      },
+      {
+          "id": "7D9DC84AD110500D284B33C82FE6E85E",
+          "name": "Device 5",
+          "power": 1250,
+          "duration": 3
+      }
+  ],
+  "rates": [
+      {
+          "from": 7,
+          "to": 12,
+          "value": 6.46
+      },
+      {
+          "from": 12,
+          "to": 21,
+          "value": 5.38
+      },
+      {
+          "from": 21,
+          "to": 1,
+          "value": 6.46
+      },
+      {
+          "from": 1,
+          "to": 7,
+          "value": 5.38
+      }
+  ],
+  "maxPower": 2000
+}

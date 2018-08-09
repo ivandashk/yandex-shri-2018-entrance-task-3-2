@@ -1,0 +1,12 @@
+{
+    "firstHourInDay": 0,
+    "dayModeBreakpoint": 7,
+    "hoursInDay": 24,
+
+    "modesDuration": {
+        "day": 14,
+        "night": 10
+    },
+
+    "wattsInKilowatt": 1000
+}
